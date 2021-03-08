@@ -12,7 +12,8 @@ One of the major questions brought to me was how the distribution of temperature
 
 - One last thing I wanted to address was model accuracy and reliablility. In both the models run, for Demember and June over 1,500 temperture recordings were taken. This means over 50 recordings were taken each day. For this reason, I think it is safe to say that the data and assumptions I have put worth today are complete and backed up by hard evidence.
 
-<img src=(Resources/JuneTemps.PNG) width="425"/> <img src=(Resources/DecTemps.PNG width="425"/> 
+<img align="left" src="./Resources/JuneTemps.PNG" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="./Resources/DecTemps.PNG" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
 
 ![JuneTemps](Resources/JuneTemps.PNG)
 
