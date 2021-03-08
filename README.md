@@ -24,10 +24,10 @@ The results of the temperatures in June and December are shown below.
 
 
 ## Summary
-From this dataset, it can be seen that temperature variation in Hawaii is qute low. The island tends to have good weather (hovering at an average temperature around 71F-75F). For this reason, I think this would be a great location to open up shop for a surfboard and icecream store. The amount of temperature recordings taken during these time periods were extremely high, so we can trust that the data is accurate. In addition, the ranges during these months in terms of temperature is relatively low. Therefore, we can conclude that this business would do rather well in this location.
+From this dataset, it can be seen that temperature variation in Hawaii is qute low. The island tends to have good weather (hovering at an average temperature around 71F-75F). For this reason, I think this would be a great location to open up shop for a surfboard and icecream store. The amount of temperature recordings taken during these time periods were extremely high, so we can trust that the data is accurate. In addition, the ranges during these months in terms of temperature is relatively low. Therefore, we can conclude that this business would do rather well in this location. In addition, I thought these two images below would be quite useful for our analysis. One shows how frequent good weather is on the island. The other image shows rainfall on the island. From the temperatures, it can be seen that temperature about 70F is extremely common. In respect to the rainfall chart, we can also see that the amount of rainfall each season is spread throughout and pretty random.
 
 <img align="left" src="./Resources/TempDistr.PNG" alt="Made with Angular" title="Angular" hspace="30"/>
-<img align="left" src="./Resources/Rain.PNG" alt="Made with Bootstrap" title="Bootstrap" hspace="30"/>
+<img align="left" src="./Resources/RainPic.PNG" alt="Made with Bootstrap" title="Bootstrap" hspace="30"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
