@@ -29,6 +29,6 @@ From this dataset, it can be seen that temperature variation in Hawaii is qute l
 <img align="left" src="./Resources/TempDistr.PNG" alt="Made with Angular" title="Angular" hspace="30"/>
 <img align="left" src="./Resources/RainPic.PNG" alt="Made with Bootstrap" title="Bootstrap" hspace="30"/>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 During this analysis, the applications used to develop these results were Python, Jupyter Notebook, SQLite, SQLAlchemy, and Flask.
