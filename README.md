@@ -16,4 +16,7 @@ One of the major questions brought to me was how the distribution of temperature
 
 ![DecTemps](Resources/DecTemps.PNG)
 
+## Summary
+From this dataset, it can be seen that temperature variation in Hawaii is qute low. The island tends to have good weather (hovering at an average temperature around 71F-75F). For this reason, I think this would be a great location to open up shop for a surfboard and icecream store. 
+
 During this analysis, the applications used to develop these results were Python, Jupyter Notebook, SQLite, SQLAlchemy, and Flask.
