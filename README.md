@@ -15,7 +15,7 @@ One of the major questions brought to me was how the distribution of temperature
 <img align="left" src="./Resources/JuneTemps.PNG" alt="Made with Angular" title="Angular" hspace="30"/>
 <img align="left" src="./Resources/DecTemps.PNG" alt="Made with Bootstrap" title="Bootstrap" hspace="30"/>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 
 
